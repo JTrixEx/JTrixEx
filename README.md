@@ -10,4 +10,4 @@
 ![Socket](https://img.shields.io/badge/Socket-0a0d11?style=for-the-badge&logo=&logoColor=24B0FF)
 
 ### Contact me
-![Telegram](https://img.shields.io/badge/Telegram-0a0d11?style=for-the-badge&logo=telegram&logoColor=24B0FF)
+[![Telegram](https://img.shields.io/badge/Telegram-0a0d11?style=for-the-badge&logo=telegram&logoColor=24B0FF)](https://t.me/bpexwork)
