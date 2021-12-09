@@ -1,5 +1,7 @@
 ![Header](images/header.png)
 
+# Desktop & Backend developer
+
 ### Languages and specialization:
 ![Node.js](https://img.shields.io/badge/Node.js-0a0d11?style=for-the-badge&logo=node.js&logoColor=24B0FF)
 ![Java](https://img.shields.io/badge/Java-0a0d11?style=for-the-badge&logo=java&logoColor=24B0FF)
@@ -11,3 +13,4 @@
 
 ### Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-0a0d11?style=for-the-badge&logo=telegram&logoColor=24B0FF)](https://t.me/bpexwork)
+[![Discord](https://img.shields.io/badge/Discord-0a0d11?style=for-the-badge&logo=discord&logoColor=24B0FF)](https://discordapp.com/users/569926111056625671/)
