@@ -1,4 +1,4 @@
-![Header](images/header.png)
+![Header](images/header.jpg)
 
 # Desktop & Backend developer
 
