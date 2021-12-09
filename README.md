@@ -1,1 +1,1 @@
-![Header](https://github.com/JTrixEx/JTrixEx/tree/main/images/header.jpg)
+[![Header](https://github.com/JTrixEx/JTrixEx/tree/main/images/header.jpg)]
